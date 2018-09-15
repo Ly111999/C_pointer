@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/tiet_3_diemthi.dir/main.c.o  -o tiet_3_diemthi.exe -Wl,--out-implib,libtiet_3_diemthi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
